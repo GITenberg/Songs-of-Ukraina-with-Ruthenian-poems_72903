@@ -1,0 +1,28 @@
+_repo: Songs-of-Ukraina-with-Ruthenian-poems_72903
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Livesay, Florence Randal
+    gutenberg_agent_id: '56855'
+    url: http://www.gutenberg.org/2009/agents/56855
+description: ''
+gutenberg_issued: '2024-02-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '72903'
+language: en
+pgterms:marc904: https://archive.org/details/songsofukrainawi00liveuoft/page/n7/mode/2up
+pgterms:marc905: 20220225201211livesay
+pgterms:marc906: '1916'
+pgterms:marc907: GB
+production_note: Richard Tonsing, Charlene Taylor, and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This file was produced from images generously made
+  available by The Internet Archive/Canadian Libraries)
+publication_note: '  $aLondon :$bJ. M. Dent & Sons, Ltd., $c1916.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Songs of Ukraina, with Ruthenian poems
+url: http://www.gutenberg.org/ebooks/72903
