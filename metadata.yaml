@@ -1,11 +1,16 @@
 _repo: Songs-of-Ukraina-with-Ruthenian-poems_72903
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 72903-h/images/cover.jpg
 creator:
   author:
     agent_name: Livesay, Florence Randal
     gutenberg_agent_id: '56855'
     url: http://www.gutenberg.org/2009/agents/56855
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/72903#Songs-of-Ukraina-with-Ruthenian-poems
 gutenberg_issued: '2024-02-08'
 gutenberg_type: Text
 identifiers:
